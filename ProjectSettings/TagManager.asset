@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - muro
+  - Explosion
+  - Bala
+  - Bala1
+  - MedKit
+  - Medkit
+  - Municion
+  - cofre
+  - Flecha
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Personaje
+  - Water
+  - UI
+  - Enemigo
+  - ' Bala'
+  - Bala Enemy
+  - Cofre
+  - Drops
+  - Sprites
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
