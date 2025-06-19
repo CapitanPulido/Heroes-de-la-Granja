@@ -15,9 +15,17 @@ Heroes de la granja es un videojuego 2D vista Eagle View las historia del juego 
 - C#
 - Aseprite
 
+## Capturas de pantalla
+
+<p align="center">
+  <img src="./GitHub/MP.png" width="400"/>
+  <img src="./GitHub/MSP.png" width="400"/>
+</p>
+
 ##  Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/usuario/nombre-del-repo.git
 https://github.com/CheeseBread5/Heroes-Granja/tree/5bd71808fff20a00d8e41bdd0c920bbdf7a0fc46
+
