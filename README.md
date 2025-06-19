@@ -18,7 +18,7 @@ Heroes de la granja es un videojuego 2D vista Eagle View las historia del juego 
 ## Capturas de pantalla
 
 <p align="center">
-  <img src="./GitHub/MP.png" width="400"/>
+  <img src="./Assets/GitHub/MP.png" width="400"/>
   <img src="./GitHub/MSP.png" width="400"/>
 </p>
 
