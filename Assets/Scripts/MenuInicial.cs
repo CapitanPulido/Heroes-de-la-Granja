@@ -20,7 +20,7 @@ public class MenuInicial : MonoBehaviour
     public void Iniciar()
     {
         
-       SceneManager.LoadScene(1);
+       SceneManager.LoadScene("MenuSeleccionPersonaje");
         
     }
 
